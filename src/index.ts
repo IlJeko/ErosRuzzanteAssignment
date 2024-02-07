@@ -150,7 +150,7 @@ particlesButton.on('pointerdown', () => {
 			frequency: 0.001,
 			particlesPerWave: 1,
 			emitterLifetime: -1,
-			maxParticles: 350,
+			maxParticles: 10,
 			pos: {
 				x: 0,
 				y: 0
