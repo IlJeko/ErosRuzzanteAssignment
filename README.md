@@ -5,3 +5,4 @@ npm install
 ```
 npm run start
 ```
+then go to http://localhost:1234 on your favorite browser
